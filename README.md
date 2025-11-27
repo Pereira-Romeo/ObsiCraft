@@ -71,10 +71,11 @@ Again, this them is still very early in the making and it's my first time workin
 
 ## background images
 
-The background images are encoded in base64 inside theme.css so you can be offline and still see them when using obsidian
+The background images are encoded in base64 inside [theme.css](./theme.css) so you can be offline and still see them when using obsidian
 
 there are 2 images, 1 for light, 1 for dark.
-you can find them under everything else in theme.css
+you can find them under everything else in [theme.css](./theme.css)
+
 for light theme background image:
 ```css
 .theme-light .horizontal-main-container {
