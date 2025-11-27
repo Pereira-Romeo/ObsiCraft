@@ -100,7 +100,7 @@ for 1 image on both theme (remove the other 2 images in this case):
 }
 ```
 
-> ![tip]
+> [!tip]
 > To easily encode your image, you can use **[this free website](https://it-tools.tech/base64-file-converter)** which requires no login mail or whatever
 > just copy the result and replace `<encoded image>` from the above snippets.
 
