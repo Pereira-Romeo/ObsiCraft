@@ -8,8 +8,7 @@ The aim of this theme is, obviously, to be themed after minecraft but also to si
 
 > [!important]
 > You might notice how abnormally heavy the css file is.
-> This is due to having 2 background images base64 encoded in it.
-> The images being encoded means no need for wifi.
+> more info on that in the **[background images section](#background-images)**
 
 
 ## Table of contents
@@ -65,7 +64,7 @@ this is how the settings menu stays the same color as the editor just losing the
 
 # additional notes
 
-Some of the added variables listed in [more color variables](#more-color-variables) may be useless due to obsidian already having color variables for the exact same thing but if you find that is the case then it means i was not aware of it and a heads up would be appreciated.
+Some of the added variables listed in **[more color variables](#more-color-variables)** may be useless due to obsidian already having color variables for the exact same thing but if you find that is the case then it means i was not aware of it and a heads up would be appreciated.
 
 I know theme.css is super messy right now and doesn't even make use of relative colors as much as it can.
 Again, this them is still very early in the making and it's my first time working with css so it's going to take time.
@@ -101,7 +100,7 @@ for 1 image on both theme (remove the other 2 images in this case):
 ```
 
 > ![tip]
-> To easily encode your image, you can use [this free website](https://it-tools.tech/base64-file-converter) which requires no login mail or whatever :)
+> To easily encode your image, you can use **[this free website](https://it-tools.tech/base64-file-converter)** which requires no login mail or whatever
 > just copy the result and replace `<encoded image>` from the above snippets.
 
 # Using this theme
